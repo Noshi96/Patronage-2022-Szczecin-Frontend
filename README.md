@@ -20,3 +20,6 @@ przeliczona na nowo
 „Głodny? Zamów naszą pizzę”
 - Koszyk jest tymczasowy, przeładowanie strony czyści koszyk
 
+
+## Działanie:
+![frontZad1](https://user-images.githubusercontent.com/38572172/142958582-7847930d-9d32-4813-b849-d13343ca11ef.png)
