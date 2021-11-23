@@ -1,6 +1,7 @@
 # Patronage
 ## Frontend Zadanie 1
 
+
 ## Opis:
 
 - Strona powinna się składać z listy pizz (na środku) oraz koszyka (po prawej stronie)
